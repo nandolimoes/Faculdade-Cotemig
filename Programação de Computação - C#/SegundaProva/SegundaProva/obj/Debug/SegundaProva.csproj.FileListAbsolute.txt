@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\bin\Debug\SegundaProva.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\bin\Debug\SegundaProva.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\bin\Debug\SegundaProva.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\obj\Debug\SegundaProva.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\obj\Debug\SegundaProva.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\obj\Debug\SegundaProva.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\SegundaProva\SegundaProva\obj\Debug\SegundaProva.pdb

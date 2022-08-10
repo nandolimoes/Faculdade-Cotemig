@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\obj\Debug\IntroduçãoAosMétodos.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\bin\Debug\IntroduçãoAosMétodos.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\bin\Debug\IntroduçãoAosMétodos.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\bin\Debug\IntroduçãoAosMétodos.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\obj\Debug\IntroduçãoAosMétodos.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\obj\Debug\IntroduçãoAosMétodos.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\IntroduçãoAosMétodos\IntroduçãoAosMétodos\obj\Debug\IntroduçãoAosMétodos.csproj.AssemblyReference.cache

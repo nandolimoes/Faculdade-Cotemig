@@ -1,0 +1,6 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\bin\Debug\Lista08e07.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\bin\Debug\Lista08e07.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\bin\Debug\Lista08e07.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\obj\Debug\Lista08e07.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\obj\Debug\Lista08e07.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e07\Lista08e07\obj\Debug\Lista08e07.pdb

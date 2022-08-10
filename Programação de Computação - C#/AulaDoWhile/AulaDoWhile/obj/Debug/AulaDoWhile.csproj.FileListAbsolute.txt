@@ -1,0 +1,13 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.pdb
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.exe.config
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.exe
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\bin\Debug\AulaDoWhile.pdb
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.csproj.CoreCompileInputs.cache
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.exe
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaDoWhile\AulaDoWhile\obj\Debug\AulaDoWhile.pdb

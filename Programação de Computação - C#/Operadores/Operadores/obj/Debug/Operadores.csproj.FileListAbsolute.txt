@@ -1,0 +1,2 @@
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Operadores\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache

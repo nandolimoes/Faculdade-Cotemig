@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\bin\Debug\MenuExercicio08.exe.config
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\bin\Debug\MenuExercicio08.exe
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\bin\Debug\MenuExercicio08.pdb
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\obj\Debug\MenuExercicio08.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\obj\Debug\MenuExercicio08.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\obj\Debug\MenuExercicio08.exe
+C:\Users\nando\source\repos\MenuExercicio08\MenuExercicio08\obj\Debug\MenuExercicio08.pdb

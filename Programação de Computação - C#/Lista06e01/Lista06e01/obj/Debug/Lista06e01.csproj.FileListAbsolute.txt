@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\obj\Debug\Lista06e01.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\obj\Debug\Lista06e01.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\bin\Debug\Lista06e01.exe.config
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\bin\Debug\Lista06e01.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\bin\Debug\Lista06e01.pdb
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\obj\Debug\Lista06e01.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista06e01\Lista06e01\obj\Debug\Lista06e01.pdb

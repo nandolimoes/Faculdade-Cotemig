@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 02 - Entrada e Saída de dados (AI2)", "Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2).csproj", "{FAC828DF-841B-457D-812A-AA7316EC8AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC828DF-841B-457D-812A-AA7316EC8AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC828DF-841B-457D-812A-AA7316EC8AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC828DF-841B-457D-812A-AA7316EC8AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC828DF-841B-457D-812A-AA7316EC8AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69ECD7CE-5BD4-40FD-80BB-06F212F63092}
+	EndGlobalSection
+EndGlobal

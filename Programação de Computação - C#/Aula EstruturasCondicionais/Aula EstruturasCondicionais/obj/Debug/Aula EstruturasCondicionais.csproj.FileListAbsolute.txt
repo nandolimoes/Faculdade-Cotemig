@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\bin\Debug\Aula EstruturasCondicionais.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\bin\Debug\Aula EstruturasCondicionais.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\bin\Debug\Aula EstruturasCondicionais.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\obj\Debug\Aula EstruturasCondicionais.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\obj\Debug\Aula EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\obj\Debug\Aula EstruturasCondicionais.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Aula EstruturasCondicionais\Aula EstruturasCondicionais\obj\Debug\Aula EstruturasCondicionais.pdb

@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\bin\Debug\Estrutura Condicional-IF Else.exe.config
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\bin\Debug\Estrutura Condicional-IF Else.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\bin\Debug\Estrutura Condicional-IF Else.pdb
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\obj\Debug\Estrutura Condicional-IF Else.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\obj\Debug\Estrutura Condicional-IF Else.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\obj\Debug\Estrutura Condicional-IF Else.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Estrutura Condicional-IF Else\Estrutura Condicional-IF Else\obj\Debug\Estrutura Condicional-IF Else.pdb

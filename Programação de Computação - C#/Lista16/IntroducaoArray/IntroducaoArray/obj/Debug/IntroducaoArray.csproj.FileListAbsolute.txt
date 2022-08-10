@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\bin\Debug\IntroducaoArray.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\bin\Debug\IntroducaoArray.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\bin\Debug\IntroducaoArray.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\obj\Debug\IntroducaoArray.csproj.AssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\obj\Debug\IntroducaoArray.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\obj\Debug\IntroducaoArray.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\IntroducaoArray\IntroducaoArray\obj\Debug\IntroducaoArray.pdb

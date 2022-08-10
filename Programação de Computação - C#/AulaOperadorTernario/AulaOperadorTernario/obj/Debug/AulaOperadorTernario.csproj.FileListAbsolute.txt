@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\bin\Debug\AulaOperadorTernario.exe.config
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\bin\Debug\AulaOperadorTernario.exe
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\bin\Debug\AulaOperadorTernario.pdb
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\obj\Debug\AulaOperadorTernario.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\obj\Debug\AulaOperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\obj\Debug\AulaOperadorTernario.exe
+C:\Users\nando\source\repos\AulaOperadorTernario\AulaOperadorTernario\obj\Debug\AulaOperadorTernario.pdb

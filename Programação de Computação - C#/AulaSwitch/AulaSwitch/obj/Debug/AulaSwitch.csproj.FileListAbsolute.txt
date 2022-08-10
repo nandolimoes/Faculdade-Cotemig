@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\bin\Debug\AulaSwitch.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\AulaSwitch\AulaSwitch\obj\Debug\AulaSwitch.pdb

@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\obj\Debug\Lista06e02.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\obj\Debug\Lista06e02.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\bin\Debug\Lista06e02.exe.config
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\bin\Debug\Lista06e02.exe
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\bin\Debug\Lista06e02.pdb
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\obj\Debug\Lista06e02.exe
+C:\Users\nando\source\repos\Lista06e02\Lista06e02\obj\Debug\Lista06e02.pdb

@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\bin\Debug\AulaRandom.exe.config
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\bin\Debug\AulaRandom.exe
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\bin\Debug\AulaRandom.pdb
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\obj\Debug\AulaRandom.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\obj\Debug\AulaRandom.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\obj\Debug\AulaRandom.exe
+C:\Users\nando\source\repos\AulaRandom\AulaRandom\obj\Debug\AulaRandom.pdb

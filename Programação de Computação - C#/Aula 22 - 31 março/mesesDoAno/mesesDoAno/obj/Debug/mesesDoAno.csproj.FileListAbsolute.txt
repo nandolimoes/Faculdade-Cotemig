@@ -1,0 +1,14 @@
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe.config
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.pdb
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.exe
+C:\Users\nando\source\repos\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\obj\Debug\mesesDoAno.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\mesesDoAno\mesesDoAno\bin\Debug\mesesDoAno.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroduçãoAosMétodos", "IntroduçãoAosMétodos\IntroduçãoAosMétodos.csproj", "{01EB94FD-3022-4E03-A998-4066D2A374E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EB94FD-3022-4E03-A998-4066D2A374E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EB94FD-3022-4E03-A998-4066D2A374E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EB94FD-3022-4E03-A998-4066D2A374E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EB94FD-3022-4E03-A998-4066D2A374E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44EB2612-12CC-4061-80A6-D1B9C8EE4656}
+	EndGlobalSection
+EndGlobal

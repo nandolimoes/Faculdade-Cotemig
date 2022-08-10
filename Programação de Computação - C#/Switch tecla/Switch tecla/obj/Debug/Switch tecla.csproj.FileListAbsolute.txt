@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\bin\Debug\Switch tecla.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\bin\Debug\Switch tecla.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\bin\Debug\Switch tecla.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\obj\Debug\Switch tecla.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\obj\Debug\Switch tecla.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\obj\Debug\Switch tecla.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Switch tecla\Switch tecla\obj\Debug\Switch tecla.pdb

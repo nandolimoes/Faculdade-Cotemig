@@ -1,0 +1,2 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e02\Lista08e02\obj\Debug\Lista08e02.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Lista08e02\Lista08e02\obj\Debug\Lista08e02.csproj.CoreCompileInputs.cache

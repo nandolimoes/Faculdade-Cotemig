@@ -1,0 +1,14 @@
+C:\Users\nando\source\repos\Lista09\Lista09\obj\Debug\Lista09.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\Lista09\Lista09\obj\Debug\Lista09.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\Lista09\Lista09\bin\Debug\Lista09.exe.config
+C:\Users\nando\source\repos\Lista09\Lista09\bin\Debug\Lista09.exe
+C:\Users\nando\source\repos\Lista09\Lista09\bin\Debug\Lista09.pdb
+C:\Users\nando\source\repos\Lista09\Lista09\obj\Debug\Lista09.exe
+C:\Users\nando\source\repos\Lista09\Lista09\obj\Debug\Lista09.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\bin\Debug\Lista09.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\bin\Debug\Lista09.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\bin\Debug\Lista09.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\obj\Debug\Lista09.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\obj\Debug\Lista09.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\obj\Debug\Lista09.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista09\Lista09\obj\Debug\Lista09.pdb

@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\obj\Debug\PassoaPassoArray.csproj.AssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\obj\Debug\PassoaPassoArray.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\bin\Debug\PassoaPassoArray.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\bin\Debug\PassoaPassoArray.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\bin\Debug\PassoaPassoArray.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\obj\Debug\PassoaPassoArray.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\Lista16\PassoaPassoArray\PassoaPassoArray\obj\Debug\PassoaPassoArray.pdb

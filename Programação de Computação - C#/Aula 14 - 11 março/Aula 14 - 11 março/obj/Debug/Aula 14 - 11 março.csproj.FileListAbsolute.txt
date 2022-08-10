@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\bin\Debug\Aula 14 - 11 março.exe.config
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\bin\Debug\Aula 14 - 11 março.exe
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\bin\Debug\Aula 14 - 11 março.pdb
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\obj\Debug\Aula 14 - 11 março.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\obj\Debug\Aula 14 - 11 março.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\obj\Debug\Aula 14 - 11 março.exe
+C:\Users\nando\source\repos\Aula 14 - 11 março\Aula 14 - 11 março\obj\Debug\Aula 14 - 11 março.pdb

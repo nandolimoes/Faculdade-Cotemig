@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\LerTecla\LerTecla\obj\Debug\LerTecla.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\LerTecla\LerTecla\obj\Debug\LerTecla.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\LerTecla\LerTecla\bin\Debug\LerTecla.exe.config
+C:\Users\nando\source\repos\LerTecla\LerTecla\bin\Debug\LerTecla.exe
+C:\Users\nando\source\repos\LerTecla\LerTecla\bin\Debug\LerTecla.pdb
+C:\Users\nando\source\repos\LerTecla\LerTecla\obj\Debug\LerTecla.exe
+C:\Users\nando\source\repos\LerTecla\LerTecla\obj\Debug\LerTecla.pdb

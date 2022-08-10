@@ -1,0 +1,14 @@
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.exe.config
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.exe
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.pdb
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.exe
+C:\Users\nando\source\repos\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\bin\Debug\AulaFor-EstruturaDeRepetição.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaFor-EstruturaDeRepetição\AulaFor-EstruturaDeRepetição\obj\Debug\AulaFor-EstruturaDeRepetição.pdb

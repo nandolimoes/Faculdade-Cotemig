@@ -1,0 +1,14 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\bin\Debug\Loja.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\bin\Debug\Loja.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\bin\Debug\Loja.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\obj\Debug\Loja.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\bin\Debug\Loja.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\bin\Debug\Loja.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\bin\Debug\Loja.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\obj\Debug\Loja.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\obj\Debug\Loja.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\obj\Debug\Loja.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Aula 22 - 31 março\Loja\Loja\obj\Debug\Loja.pdb

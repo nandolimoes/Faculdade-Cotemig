@@ -1,0 +1,6 @@
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\obj\Debug\ExercicioAvaliativo3.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\bin\Debug\ExercicioAvaliativo3.exe.config
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\bin\Debug\ExercicioAvaliativo3.exe
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\bin\Debug\ExercicioAvaliativo3.pdb
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\obj\Debug\ExercicioAvaliativo3.exe
+C:\Users\nando\source\repos\ExercicioAvaliativo3\ExercicioAvaliativo3\obj\Debug\ExercicioAvaliativo3.pdb

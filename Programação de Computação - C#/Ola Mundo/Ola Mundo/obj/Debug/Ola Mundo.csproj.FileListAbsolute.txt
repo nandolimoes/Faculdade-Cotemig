@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.exe.config
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\bin\Debug\Ola Mundo.pdb
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Ola Mundo\Ola Mundo\obj\Debug\Ola Mundo.pdb

@@ -1,0 +1,7 @@
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\obj\Debug\ExercicioAvaliativo2.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\obj\Debug\ExercicioAvaliativo2.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\bin\Debug\ExercicioAvaliativo2.exe.config
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\bin\Debug\ExercicioAvaliativo2.exe
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\bin\Debug\ExercicioAvaliativo2.pdb
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\obj\Debug\ExercicioAvaliativo2.exe
+C:\Users\nando\source\repos\ExercicioAvaliativo2\ExercicioAvaliativo2\obj\Debug\ExercicioAvaliativo2.pdb

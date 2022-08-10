@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\bin\Debug\Op.Relacionais.exe.config
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\bin\Debug\Op.Relacionais.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\bin\Debug\Op.Relacionais.pdb
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\obj\Debug\Op. Relacionais.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\obj\Debug\Op. Relacionais.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\obj\Debug\Op.Relacionais.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\Op. Relacionais\Op. Relacionais\obj\Debug\Op.Relacionais.pdb

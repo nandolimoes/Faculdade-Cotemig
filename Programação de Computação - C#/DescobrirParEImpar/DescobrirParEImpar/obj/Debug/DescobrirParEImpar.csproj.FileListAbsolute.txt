@@ -1,0 +1,6 @@
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\obj\Debug\DescobrirParEImpar.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\bin\Debug\DescobrirParEImpar.exe.config
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\bin\Debug\DescobrirParEImpar.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\bin\Debug\DescobrirParEImpar.pdb
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\obj\Debug\DescobrirParEImpar.exe
+C:\Users\nando\Desktop\Materia e Videos - Programação de Computação - Marlom\Arquivos do Visual Studio - C#\DescobrirParEImpar\DescobrirParEImpar\obj\Debug\DescobrirParEImpar.pdb

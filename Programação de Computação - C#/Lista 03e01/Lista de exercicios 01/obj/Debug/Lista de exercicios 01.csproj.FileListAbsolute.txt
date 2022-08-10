@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\obj\Debug\Lista de exercicios 01.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\bin\Debug\Lista de exercicios 01.exe.config
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\bin\Debug\Lista de exercicios 01.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\bin\Debug\Lista de exercicios 01.pdb
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\obj\Debug\Lista de exercicios 01.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\obj\Debug\Lista de exercicios 01.pdb
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Lista de exercicios 01\Lista de exercicios 01\obj\Debug\Lista de exercicios 01.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\bin\Debug\AulaWhile.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\bin\Debug\AulaWhile.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\bin\Debug\AulaWhile.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\obj\Debug\AulaWhile.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\obj\Debug\AulaWhile.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\obj\Debug\AulaWhile.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\AulaWhile\AulaWhile\obj\Debug\AulaWhile.pdb

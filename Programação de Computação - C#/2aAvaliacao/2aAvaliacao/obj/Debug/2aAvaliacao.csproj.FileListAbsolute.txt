@@ -1,0 +1,13 @@
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.exe.config
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.pdb
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.exe
+C:\Users\nando\Desktop\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.pdb
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.exe.config
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.exe
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\bin\Debug\2aAvaliacao.pdb
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.csproj.CoreCompileInputs.cache
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.exe
+E:\2021\Cotemig 2021 - 1 Período\Programação de Computação - Marlon de Souza Reis\Arquivos do Visual Studio - C#\2aAvaliacao\2aAvaliacao\obj\Debug\2aAvaliacao.pdb

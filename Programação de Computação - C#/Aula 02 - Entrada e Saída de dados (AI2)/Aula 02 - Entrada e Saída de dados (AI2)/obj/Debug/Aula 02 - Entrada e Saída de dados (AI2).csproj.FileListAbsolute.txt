@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\bin\Debug\Aula 02 - Entrada e Saída de dados (AI2).exe.config
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\bin\Debug\Aula 02 - Entrada e Saída de dados (AI2).exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\bin\Debug\Aula 02 - Entrada e Saída de dados (AI2).pdb
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\obj\Debug\Aula 02 - Entrada e Saída de dados (AI2).csprojAssemblyReference.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\obj\Debug\Aula 02 - Entrada e Saída de dados (AI2).csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\obj\Debug\Aula 02 - Entrada e Saída de dados (AI2).exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 02 - Entrada e Saída de dados (AI2)\Aula 02 - Entrada e Saída de dados (AI2)\obj\Debug\Aula 02 - Entrada e Saída de dados (AI2).pdb

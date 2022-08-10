@@ -1,0 +1,7 @@
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\bin\Debug\Aula 01 - Entrada e saída de dados.exe.config
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\bin\Debug\Aula 01 - Entrada e saída de dados.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\bin\Debug\Aula 01 - Entrada e saída de dados.pdb
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\obj\Debug\Aula 01 - Entrada e saída de dados.csprojAssemblyReference.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\obj\Debug\Aula 01 - Entrada e saída de dados.csproj.CoreCompileInputs.cache
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\obj\Debug\Aula 01 - Entrada e saída de dados.exe
+C:\Users\nando\Desktop\C# - Programação de Computação - Marlom\Aula 01 - Entrada e saída de dados\Aula 01 - Entrada e saída de dados\obj\Debug\Aula 01 - Entrada e saída de dados.pdb
